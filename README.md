@@ -8,11 +8,11 @@ The native realization of Zpär-25 is not phonemic; it consists of three quanta 
 | Trigram | Ternary | Latin | Provisional pronunciation | Archetypal meaning |
 |---------|---------|-------|---------------------------|--------------------|
 | CCC     | 000     | n     | /n/, /an/                 | giving             |
-| CCƆ     | 001     | c     | /ts/, /ost/               | teardrop           |
+| CCƆ     | 001     | c     | /ts/, /est/               | teardrop           |
 | CC𐒒     | 002     | k     | /k/, /ok/                 | secret             |
 | CƆC     | 010     | i     | /ʔi̯/, /iː/                | body               |
 | CƆƆ     | 011     | g     | /g/, /ag/                 | heart              |
-| CƆ𐒒     | 012     | q     | /tʃ/, /oʃt/               | sun                |
+| CƆ𐒒     | 012     | q     | /tʃ/, /eʃt/               | sun                |
 | C𐒒C     | 020     | f     | /f/, /of/                 | shadow             |
 | C𐒒Ɔ     | 021     | ø     | /ʔø̯/, /ø/                 | city               |
 | C𐒒𐒒     | 022     | r     | /r/, /ar/                 | road               |
@@ -37,24 +37,25 @@ The native realization of Zpär-25 is not phonemic; it consists of three quanta 
 
 (See Diana Slattery, *Xenolinguistics*, 2015)
 
-The need to pronounce came to Zpär-25 third, after the native oneiric realization and the graphic transcription, so its practical pronunciation is very provisional and somewhat awkward. The last glyph in a word always have a vowel (+ coda) realization, and backwards from it there is alternating pattern of vowel/consonant, so all one-glyph words have V structure, two, CV, three, VCV, four, CVCV, etc. Some examples:
+The need to pronounce came to Zpär-25 third, after the native oneiric realization and the graphic transcription, so its practical pronunciation is very provisional and somewhat awkward. The last glyph in a word always have a vowel (+ coda) realization, and backwards from it there is alternating pattern of vowel/consonant, so all one-glyph words have V structure, two, CV, three, VCV, four, CVCV, etc. The stress, if needed, falls on the first long syllable, on on the last one if there are no long vowels. Some examples:
 
-**n** /an/<br>
-**a** /a:/<br>
-**kr** /kar/<br>
-**uo** /ʔu̯oː/<br>
-**hy** /hai̯/<br>
-**løø** /alʔøːː/<br>
-**adt** /aːdot/<br>
-**txu** /otʃuː/<br>
-**oqu** /oːtʃuː/<br>
-**tsi** /otsiː/<br>
-**oci** /oːtsiː/<br>
-**yddi** /jaddiː/<br>
-**atkh** /ʔə̯otkoh/<br>
-**whhf** /wohːof/<br>
-**dnat** /danʔə̯ot/<br>
-**ojkhr** /oːʒokhar/<br>
+**n** /ˈan/<br>
+**a** /ˈa:/<br>
+**kr** /ˈkar/<br>
+**uo** /ˈʔu̯oː/<br>
+**hy** /ˈhai̯/<br>
+**løø** /alˈʔøːː/<br>
+**adt** /ˈaːdot/<br>
+**txu** /etˈʃuː/<br>
+**equ** /ˈeːtʃuː/<br>
+**tsi** /etˈsiː/<br>
+**eci** /ˈeːtsiː/<br>
+**yddi** /jadˈdiː/<br>
+**atkh** /ʔə̯otˈkoh/<br>
+**whhf** /wohˈhof/<br>
+**dnat** /danˈʔə̯ot/<br>
+**ojkhr** /ˈoːʒokhar/<br>
+**clqde** /estleʃtˈdeː/ (it can be safely assimilated into /estleʒdˈdeː/<br>
 
 ## Morphology
 
@@ -161,28 +162,35 @@ Here, *r kr k* is used to select the agent/subject (**kr**) of the previous clau
 **uo** R is an experiencer in L<br>
 **zg** R is an emotional mood of L<br>
 #### Other grammatical categories
-**od** R belongs to L (generic possessive/genitive relation)
+**od** R belongs to L (generic possessive/genitive relation)<br>
 **fl** R is a grammatical tense of L<br>
 **kh** R is a grammatical aspect of L<br>
 **pv** R is a grammatical mood of L<br>
 **rn** R is a focus of clause L<br>
 **lo** L is a topic and R is a comment<br>
 #### Conjunctions
-Can use intermediate event referent, e.g. *dp aaa p bbb* = *aaa dp bbb* but allows to add non-**dp** relations to the event node<br> 
+
+Can use intermediate event referent, e.g. *dp aaa p bbb* = *aaa dp bbb* but allows to add non-**dp** relations to the event node
+
 **dp** L is a reflection/equal to R<br>
 **pe** L is an element of a group/multiplicity R<br>
 **vq** L and R are connected weakly, diffusely, and/or associatively<br>
 **un** L and R are strongly connected, but are not identical<br>
 **xn** L is an instance of class R<br>
+
 #### Converters
+
 Converters are completely optional and serve only to provide additional clarity of the role of the referent
+
 **hv** L is an entity expressing quality R<br>
 **ni** L is a quality of an entity R<br>
 **øz** L is an event/process with a verb/schema/archetype R<br>
 **dh** L is a eventual/processual quality of clause R<br>
 **ph** L is a logical/propositional/predicative quality of clause R<br>
 **ad** L is an entity described by a clause R<br>
+
 #### Other
+
 **bm** L is named R<br>
 **be** L means R<br>
 **vf** L is not R<br>
@@ -203,9 +211,9 @@ Converters are completely optional and serve only to provide additional clarity 
 **inn** feminine<br>
 **øpz** neuter<br>
 
-**lzd** first person
-**ømz** second person
-**øzd** third person
+**lzd** first person<br>
+**ømz** second person<br>
+**øzd** third person<br>
 
 **cfl** past<br>
 **flp** present<br>
@@ -231,7 +239,9 @@ Converters are completely optional and serve only to provide additional clarity 
 **vvf** possible<br>
 **vff** probable<br>
 **hvf** certain<br>
+
 #### General
+
 **adt** feline, cat<br>
 **bnj** friend<br>
 **clqde** Midnight (name)<br>
