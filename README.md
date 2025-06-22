@@ -133,3 +133,158 @@ Here, *r kr k* is used to select the agent/subject (**kr**) of the previous clau
 *oau uo øbm n my sfn k kr m ad ryb hy hjp* “A poet sees a dragon which is slighering across a meadow”
 
 Here, **ryb** “slither” is connected to **sfn** “dragon” both through **k kr** (the dragon is the agent in the event of slithering) and by **ad** (the dragon is described by this event of slithering). 
+
+## Lexicon
+### Relationals
+#### Thematic relations
+**cl** R is a time in which L occurs<br>
+**dl** R is a context of L<br>
+**ek** R is an instrument in L<br>
+**fi** R is a cause of L<br>
+**gl** R is a patient in L<br>
+**go** R is someone's (speaker by default) attitude toward L<br>
+**gr** R is a destination or direction of movement in L<br> 
+**hp** R is a original location of L<br>
+**hu** R is a benificiary in L<br>
+**hy** R is a location of L<br>
+**ko** R is a result in L<br>
+**kr** R is an agent in L<br>
+**la** R is a source/springhead of/acting force in L<br>
+**lp** R is the tone or manner of L<br>
+**mo** R is the goal in L<br>
+**my** R is a stimulus in L<br>
+**nu** R is a recipient in L<br>
+**rx** R is a destination/confluence/sink of L<br>
+**sh** R is a something bordering L, interfacing with L, or a domain of L<br>
+**sø** R is a theme of L; R is generically participates in L; R has an aspect of L<br>
+**uo** R is an experiencer in L<br>
+**zg** R is an emotional mood of L<br>
+#### Other grammatical categories
+**od** R belongs to L (generic possessive/genitive relation)
+**fl** R is a grammatical tense of L<br>
+**kh** R is a grammatical aspect of L<br>
+**pv** R is a grammatical mood of L<br>
+**rn** R is a focus of clause L<br>
+**lo** L is a topic and R is a comment<br>
+#### Conjunctions
+Can use intermediate event referent, e.g. *dp aaa p bbb* = *aaa dp bbb* but allows to add non-**dp** relations to the event node<br> 
+**dp** L is a reflection/equal to R<br>
+**pe** L is an element of a group/multiplicity R<br>
+**vq** L and R are connected weakly, diffusely, and/or associatively<br>
+**un** L and R are strongly connected, but are not identical<br>
+**xn** L is an instance of class R<br>
+#### Converters
+Converters are completely optional and serve only to provide additional clarity of the role of the referent
+**hv** L is an entity expressing quality R<br>
+**ni** L is a quality of an entity R<br>
+**øz** L is an event/process with a verb/schema/archetype R<br>
+**dh** L is a eventual/processual quality of clause R<br>
+**ph** L is a logical/propositional/predicative quality of clause R<br>
+**ad** L is an entity described by a clause R<br>
+#### Other
+**bm** L is named R<br>
+**be** L means R<br>
+**vf** L is not R<br>
+**ls** L or R<br>
+**og** L xor R; either L or R<br>
+**rp** R logically follows from L; L implies R<br>
+**uf** R is larger than L<br>
+
+### Contentives
+
+#### Grammar
+**upe** one, singlular<br>
+**oii** two, dual<br>
+**bgd** several, paucal number<br>
+**ydo** many, plural<br>
+
+**uug** masculine<br>
+**inn** feminine<br>
+**øpz** neuter<br>
+
+**lzd** first person
+**ømz** second person
+**øzd** third person
+
+**cfl** past<br>
+**flp** present<br>
+**ffl** future<br>
+
+**øpu** perfective<br>
+**qdo** imperfective<br>
+
+**dpv** realis<br>
+**pvf** irrealis<br>
+
+**duø** contextual dream-reality<br>
+**lpa** situation<br>
+**øpd** apposition<br>
+**øzp** performative<br>
+**zkp** stage<br>
+
+**evf** forbidden<br>
+**peg** permitted<br>
+**vvf** possible<br>
+**ygl** necessary<br>
+
+**vvf** possible<br>
+**vff** probable<br>
+**hvf** certain<br>
+#### General
+**adt** feline, cat<br>
+**bnj** friend<br>
+**clqde** Midnight (name)<br>
+**din** wolf<br>
+**dvn** red<br>
+**fvo** rooster<br>
+**ghc** nothing<br>
+**ieu** give<br>
+**jcc** rain<br>
+**hjc** height<br>
+**hjd** distant<br>
+**hljd** swift (sand martin)<br>
+**hyf** majority<br>
+**ihn** apex<br>
+**kac** foot<br>
+**løø** black<br>
+**mfh** strong<br>
+**mnn** sun<br>
+**nbd** darkness<br>
+**nzd** gray<br>
+**ofc** quick<br>
+**ohk** good<br>
+**old** to like<br>
+**otck** panda<br>
+**øath** lion<br>
+**ødd** minority<br>
+**øoz** I<br>
+**ørdø** Caesar<br> 
+**pbe** book<br>
+**pej** no one from<br>
+**pek** very<br>
+**psj** some<br>
+**pzd** argue<br>
+**qpde** midnight<br>
+**rbo** to fly<br>
+**rmb** wind<br>
+**rkb** horse<br>
+**rkf** donkey<br>
+**søs** all<br>
+**spb** to wash<br>
+**tuu** too call<br>
+**uøu** never<br>
+**upe** each<br>
+**uvh**, **fgrh** north<br>
+**vfq** question<br>
+**vug** she<br>
+**vuig** Mary (name)<br>
+**wcj** to sleep<br>
+**wph** dog<br>
+**wpo** elephant<br>
+**xkw** recent<br>
+**xut** orchid<br>
+**yddi** sushi<br>
+**yok** thick<br>
+**zdp** to play<br>
+**zld** blue<br>
+**zod** to compare<br>
