@@ -88,6 +88,21 @@ Relationals link content phrases together. A relational occurs between two conte
 
 Natively, Zpär-25 text can be conceptualized as a graph; microcode particles help to express the graph linearly in a manner similar to human languages. There are several particles, each with its own function and syntax, but generally they can be divided into those with content-like syntax and those with relational-like one.
 
+
+#### Contentive-like particles
+
+**a, e, i, o, ø, u** just tag the current referrent. They are used in pronoun-like manner with the following particle **l** to easily recall the already-mentioned referrents. If the narrative is very complex, the combinations of three tags give total of 20 unique references. 
+
+**l** takes the content words (and aforementioned tags) added in the current content phrase so far, and identify the current referrent with the most recently mentioned referrent having all these contentives and/or tags. It functions like a definitive article in function of anaphoric reference.
+
+*uo adt n old my zdp n un uo lzd n old my adt l* “A cat likes to play, while I like the *(recently mentioned)* cat”
+
+**m** allows to draw two (or more) relationals at once sharing both left side and the right side:
+
+*oau uo øbm n my sfn k kr m ad ryb hy hjp* “A poet sees a dragon which is slighering across a meadow”
+
+Here, **ryb** “slither” is connected to **sfn** “dragon” both through **k kr** (the dragon is the agent in the event of slithering) and by **ad** (the dragon is described by this event of slithering). 
+
 #### Relational-like particles
 
 **n** returns backward to the referent before the most recent relational. It is very useful in laying out a clause structure:
@@ -114,25 +129,11 @@ Here, we return to the referent of **ieu** “give” after describing each of t
 
 *ieu kr d xfx b øoz n nu vug n sø yddi* “Supposedly, it is me who is giving her a sushi.”
 
-#### Contentive-like particles
-
-**a, e, i, o, ø, u** just tag the current referrent. They are used in pronoun-like manner with the following particle **l** to easily recall the already-mentioned referrents. If the narrative is very complex, the combinations of three tags give total of 20 unique references. 
-
-**l** takes the content words (and aforementioned tags) added in the current content phrase so far, and identify the current referrent with the most recently mentioned referrent having all these contentives and/or tags. It functions like a definitive article in function of anaphoric reference.
-
-*uo adt n old my zdp n un uo lzd n old my adt l* “A cat likes to play, while I like the *(recently mentioned)* cat”
-
 **r** precedes a chain of relationals ending with **l** which is used to pattern-match the previously described part of the graph and find the latest matching referent:
 
 *pd uvh rmb p mnn n k kr pzd cfl sø vfq k ko ihn mfh sh r kr l* “The North Wind and The Sun were arguing about which of them was the strongest.”
 
 Here, *r kr k* is used to select the agent/subject (**kr**) of the previous clause (that is, “The North Wind and The Sun”): the pronominal meaning which in English is translated as “them”.
-
-**m** allows to draw two (or more) relationals at once sharing both left side and the right side:
-
-*oau uo øbm n my sfn k kr m ad ryb hy hjp* “A poet sees a dragon which is slighering across a meadow”
-
-Here, **ryb** “slither” is connected to **sfn** “dragon” both through **k kr** (the dragon is the agent in the event of slithering) and by **ad** (the dragon is described by this event of slithering). 
 
 ## Lexicon
 ### Relationals
@@ -271,7 +272,7 @@ Converters are completely optional and serve only to provide additional clarity 
 **rkf** donkey<br>
 **søs** all<br>
 **spb** to wash<br>
-**tuu** too call<br>
+**tuu** to call<br>
 **uøu** never<br>
 **upe** each<br>
 **uvh**, **fgrh** north<br>
