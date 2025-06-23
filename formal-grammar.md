@@ -1,6 +1,8 @@
-One of major inspirations behind the Zpär-25 linearization is RDF, and we can use RDF to formally define all of its operations. In addition to graph itself, it requires a *machine* to manage its state and some additional registers, including keeping the order of added RDF triples, which is used for backreference.
+One of major inspirations behind the Zpär-25 linearization is RDF, and we can use RDF* to formally define all of its operations. In addition to graph itself, it requires a *machine* to manage its state and some additional registers, including keeping the order of added RDF triples, which is used for backreference.
 
-Note that while existence of RDF triple as an element of RDF graph called an *assertion* in RDF, Zpär-25 assertion is a different thing which is expressed through a specific triple.
+*) With a substantial modification: we're allowing for a RDF verb to be a blank node. This is an easier alternative to representing first-class relationship entities as triple terms.
+
+Also note that while existence of RDF triple as an element of RDF graph called an *assertion* in RDF, Zpär-25 assertion is a different thing which is expressed through a specific triple.
 
 The Zpär-25 fragments in the examples are to be interpreted as directly following one another in a single text, e.g., it goes from empty state to `adt` to `adt so`, etc.
 
