@@ -207,8 +207,8 @@ Converters are completely optional and serve only to provide additional clarity 
 **bgd** several, paucal number<br>
 **ydo** many, plural<br>
 
-**uug** masculine<br>
-**inn** feminine<br>
+**uug** feminine<br>
+**inn** masculine<br>
 **øpz** neuter<br>
 
 **lzd** first person<br>
