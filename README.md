@@ -14,7 +14,7 @@ The native realization of Zpär-25 is not phonemic; it consists of three quanta 
 | CƆƆ     | 011     | g     | /g/, /ag/                 | heart              |
 | CƆ𐒒     | 012     | q     | /tʃ/, /eʃt/               | sun                |
 | C𐒒C     | 020     | f     | /f/, /of/                 | shadow             |
-| C𐒒Ɔ     | 021     | ø     | /ʝʷ/, /ø/                 | city               |
+| C𐒒Ɔ     | 021     | ø     | /ʝʷ/, /øː/                 | city               |
 | C𐒒𐒒     | 022     | r     | /r/, /ar/                 | road               |
 | ƆCC     | 100     | h     | /h/, /oh/                 | mountain           |
 | ƆCƆ     | 101     | o     | /ɣʷ/, /oː/                | mind               |
@@ -27,7 +27,7 @@ The native realization of Zpär-25 is not phonemic; it consists of three quanta 
 | Ɔ𐒒𐒒     | 122     | l     | /l/, /al/                 | time               |
 | 𐒒CC     | 200     | m     | /m/, /am/                 | fire               |
 | 𐒒CƆ     | 201     | b     | /b/, /ab/                 | breath             |
-| 𐒒C𐒒     | 202     | a     | /ʁ~ʕ~ɦ/, /a:/             | wound              |
+| 𐒒C𐒒     | 202     | a     | /ʁ\~ʕ\~ɦ/, /a:/             | wound              |
 | 𐒒ƆC     | 210     | p     | /p/, /op/                 | play               |
 | 𐒒ƆƆ     | 211     | j     | /ʒ/, /aʒ/                 | tenderness         |
 | 𐒒Ɔ𐒒     | 212     | e     | /ʝ/, /e:/                 | wine               |
