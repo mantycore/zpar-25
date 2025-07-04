@@ -10,27 +10,27 @@ The native realization of Zpär-25 is not phonemic; it consists of three quanta 
 | CCC     | 000     | n     | /n/, /an/                 | giving             |
 | CCƆ     | 001     | c     | /ts/, /est/               | teardrop           |
 | CC𐒒     | 002     | k     | /k/, /ok/                 | secret             |
-| CƆC     | 010     | i     | /ʔi̯/, /iː/                | body               |
+| CƆC     | 010     | i     | /j/, /iː/                | body               |
 | CƆƆ     | 011     | g     | /g/, /ag/                 | heart              |
 | CƆ𐒒     | 012     | q     | /tʃ/, /eʃt/               | sun                |
 | C𐒒C     | 020     | f     | /f/, /of/                 | shadow             |
-| C𐒒Ɔ     | 021     | ø     | /ʔø̯/, /ø/                 | city               |
+| C𐒒Ɔ     | 021     | ø     | /ʝʷ/, /ø/                 | city               |
 | C𐒒𐒒     | 022     | r     | /r/, /ar/                 | road               |
 | ƆCC     | 100     | h     | /h/, /oh/                 | mountain           |
-| ƆCƆ     | 101     | o     | /ʔo̯/, /oː/                | mind               |
+| ƆCƆ     | 101     | o     | /ɣʷ/, /oː/                | mind               |
 | ƆC𐒒     | 102     | d     | /d/, /ad/                 | moon               |
-| ƆƆC     | 110     | y     | /j/, /ai̯/                 | expanse            |
-| ƆƆƆ     | 111     | u     | /ʔu̯/, /uː/                | receiving          |
-| ƆƆ𐒒     | 112     | w     | /w/, /au̯/                 | birth              |
+| ƆƆC     | 110     | y     | /ɥ/, /yː/                 | expanse            |
+| ƆƆƆ     | 111     | u     | /w/, /uː/                 | receiving          |
+| ƆƆ𐒒     | 112     | w     | /ɰ/, /ɯː/                 | birth              |
 | Ɔ𐒒C     | 120     | x     | /ʃ/, /oʃ/                 | language           |
 | Ɔ𐒒Ɔ     | 121     | v     | /v/, /av/                 | flower             |
 | Ɔ𐒒𐒒     | 122     | l     | /l/, /al/                 | time               |
 | 𐒒CC     | 200     | m     | /m/, /am/                 | fire               |
 | 𐒒CƆ     | 201     | b     | /b/, /ab/                 | breath             |
-| 𐒒C𐒒     | 202     | a     | /ʔə̯/, /a:/                | wound              |
+| 𐒒C𐒒     | 202     | a     | /ʁ~ʕ~ɦ/, /a:/             | wound              |
 | 𐒒ƆC     | 210     | p     | /p/, /op/                 | play               |
 | 𐒒ƆƆ     | 211     | j     | /ʒ/, /aʒ/                 | tenderness         |
-| 𐒒Ɔ𐒒     | 212     | e     | /ʔe̯/, /e:/                | wine               |
+| 𐒒Ɔ𐒒     | 212     | e     | /ʝ/, /e:/                 | wine               |
 | 𐒒𐒒C     | 220     | t     | /t/, /ot/                 | death              |
 | 𐒒𐒒Ɔ     | 221     | s     | /s/, /os/                 | sea                |
 | 𐒒𐒒𐒒     | 222     | z     | /z/, /az/                 | change             |
@@ -42,18 +42,18 @@ The need to pronounce came to Zpär-25 third, after the native oneiric realizati
 **n** /ˈan/<br>
 **a** /ˈa:/<br>
 **kr** /ˈkar/<br>
-**uo** /ˈʔu̯oː/<br>
-**hy** /ˈhai̯/<br>
-**løø** /alˈʔøːː/<br>
+**uo** /ˈwoː/<br>
+**hy** /ˈhyː/<br>
+**løø** /alˈʝʷøː/<br>
 **adt** /ˈaːdot/<br>
 **txu** /etˈʃuː/<br>
 **equ** /ˈeːtʃuː/<br>
 **tsi** /etˈsiː/<br>
 **eci** /ˈeːtsiː/<br>
-**yddi** /jadˈdiː/<br>
-**atkh** /ʔə̯otˈkoh/<br>
-**whhf** /wohˈhof/<br>
-**dnat** /danˈʔə̯ot/<br>
+**yddi** /ɥadˈdiː/<br>
+**atkh** /ʕotˈkoh/<br>
+**whhf** /ɰohˈhof/<br>
+**dnat** /danˈʕot/<br>
 **ojkhr** /ˈoːʒokhar/<br>
 **clqde** /estleʃtˈdeː/ (it can be safely assimilated into /estleʒdˈdeː/<br>
 
